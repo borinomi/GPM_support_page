@@ -1,0 +1,36 @@
+{
+    "name": "Group Post Manager",
+    "short_name": "GPM",
+    "description": "Social Content Organizer - Transform Your Social Media Content Management",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3b82f6",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "icon-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "categories": ["productivity", "social", "utilities"],
+    "lang": "en"
+}
