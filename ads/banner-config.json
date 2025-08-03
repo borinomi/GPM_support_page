@@ -1,0 +1,29 @@
+[
+    {
+        "id": "premium-upgrade",
+        "image": "https://gpm.anhmake.com/ads/premium-upgrade.png",
+        "url": "https://gpm.anhmake.com/#pricing",
+        "title": "Premium Upgrade - Remove Ads & Get More Features",
+        "type": "internal",
+        "active": true,
+        "weight": 30
+    },
+    {
+        "id": "website-visit",
+        "image": "https://gpm.anhmake.com/ads/website-visit.png", 
+        "url": "https://gpm.anhmake.com/",
+        "title": "Visit Our Website - Learn More",
+        "type": "internal",
+        "active": true,
+        "weight": 20
+    },
+    {
+        "id": "features-highlight",
+        "image": "https://gpm.anhmake.com/ads/features-highlight.png",
+        "url": "https://gpm.anhmake.com/#features", 
+        "title": "New Features Available - Try Now",
+        "type": "internal",
+        "active": true,
+        "weight": 25
+    }
+]
