@@ -29,7 +29,13 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-6QG880FELE');
+        gtag('config', 'G-6QG880FELE', {
+            page_title: 'Group Post Manager',
+            page_location: window.location.href
+        });
+        
+        // Debug: 콘솔에 확인 메시지
+        console.log('Google Analytics initialized with ID: G-6QG880FELE');
     </script>
     
     <style>
